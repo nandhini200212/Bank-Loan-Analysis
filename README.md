@@ -36,9 +36,6 @@ This project focuses on analyzing bank loan data to evaluate loan performance, c
 * Total Funded Amount
 * Total Amount Received
 * Average Interest Rate
-* Average Debt-to-Income Ratio (DTI)
-* Good Loan Percentage
-* Bad Loan Percentage
 
 ## Process
 
